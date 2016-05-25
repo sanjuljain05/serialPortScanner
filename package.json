@@ -7,11 +7,5 @@
     "serialport": "^3.1.2",
     "socket.io": "^1.4.6",
     "ws": "^1.1.0"
-  },
-  "main": "myapp.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "author": "",
-  "license": "ISC"
+  }
 }
